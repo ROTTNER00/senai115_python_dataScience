@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Felipe Rottner Rodrigues
+Autores: Felipe Rottner Rodrigues 2x campeão mundial
 
 Versão: 1
 
